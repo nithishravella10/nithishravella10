@@ -8,3 +8,9 @@
 nithishnikki/nithishnikki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Hi there! 👋
+
+I'm [Your Name], a passionate developer interested in [Your Interests]. Currently employed at [Your Current Position]. My GitHub is a collection of projects showcasing my skills in [Languages/Technologies].
+
+🌐 [Personal Website/Portfolio]
+📫 Connect with me on [LinkedIn/Twitter]
