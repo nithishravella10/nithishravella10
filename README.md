@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @nithishnikki
-- 👀 I’m interested in Internet of Things, Sensors and Cloud
-- 🌱 I’m currently working on IoT and embedded systems
-- 💞️ I’m looking to collaborate on IoT projects
-- 📫 You can reach me at nithishnikki007@gmail.com
+### About Me
+Hello! I'm Nithish Ravella, an open-minded and enthusiastic engineer. My areas of interest includes IoT, Embedded systems and Cloud technologies. 
 
-<!---
-nithishnikki/nithishnikki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Hi there! 👋
+Currently, I am working as an Design Engineer at Tata Technologies in the embedded automotive domain. I hold a Bachelor of Technology in Electronics and Communication Engineering with a specialization in Internet of Things and Sensors from Vellore Institute of Technology. My education equipped me with both theoretical knowledge and practical experience in hardware and IoT projects. I find joy in working with IoT technologies, exploring the vast world of cloud computing and understanding the emerging technologies.
 
-I'm [Your Name], a passionate developer interested in [Your Interests]. Currently employed at [Your Current Position]. My GitHub is a collection of projects showcasing my skills in [Languages/Technologies].
+### My Skills
+- **Programming Languages:** Python, C/C++  
+- **Development Tools/Boards:** MATLAB Simulink, Arduino, ESP32, Raspberry Pi, Tinkercad, ThingSpeak IoT  
+- **Skills:** Product Engineering, Development & Ownership, Staying Updated with Emerging Technologies  
+- **Areas of Interest:** Internet of Things, Embedded Systems, Automotive, AgriTech  
+- **Other Technologies:** IoT Protocols, AWS, OBD Diagnostics, Linux, Networking, Git, MongoDB  
 
-🌐 [Personal Website/Portfolio]
-📫 Connect with me on [LinkedIn/Twitter]
+### Reach me at
+[LinkedIn](https://www.linkedin.com/in/nithishravella10/)
+
+---
+
+Have something in mind? Let's connect! I am eager to learn new skills and collaborate with like-minded folks.
