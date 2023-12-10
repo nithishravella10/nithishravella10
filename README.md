@@ -7,8 +7,8 @@ Previously, I was working as a Design Engineer at Tata Technologies in the embed
 - **Programming Languages:** Python, C/C++  
 - **Development Tools/Boards:** MATLAB Simulink, Arduino, ESP32, Raspberry Pi, Tinkercad, ThingSpeak IoT  
 - **Skills:** Product Engineering, Development & Ownership, Staying Updated with Emerging Technologies  
-- **Areas of Interest:** Internet of Things, Embedded Systems, Automotive, AgriTech  
-- **Other Technologies:** IoT Protocols, AWS, OBD Diagnostics, Linux, Networking, Git, MongoDB  
+- **Areas of Interest:** Internet of Things, Embedded Systems, Automotive, Automation and AgriTech  
+- **Other Technologies:** IoT Protocols, AWS, OBD Diagnostics, Linux, Networking, Git, MongoDB and Grafana  
 
 ### Reach me at
 [LinkedIn](https://www.linkedin.com/in/nithishravella10/)
