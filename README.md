@@ -1,18 +1,18 @@
 ### About Me
-Hello! I'm Nithish Ravella, an open-minded and enthusiastic engineer. My areas of interest includes IoT, Embedded systems and Cloud technologies. 
+Hello! I’m Nithish Ravella, a passionate guy and strategic thinker with a talent for problem-solving and innovation. My journey spans from developing IoT solutions to driving growth in dynamic startup environments. I thrive on tackling complex challenges and turning ideas into impactful solutions.
 
-Previously, I was working as a Design Engineer at Tata Technologies in the embedded automotive domain. I hold a Bachelor of Technology in Electronics and Communication Engineering with a specialization in Internet of Things and Sensors from Vellore Institute of Technology. My education equipped me with both theoretical knowledge and practical experience in hardware and IoT projects. I find joy in working with IoT technologies, exploring the vast world of cloud computing and understanding the emerging technologies.
+I live by the motto, "Where there’s a will, there’s a way." - You will find a way if you’re determined enough. 
 
 ### My Skills
+- **Core Skills:** Product Engineering, Development & Ownership, Staying Updated with Emerging Technologies  
 - **Programming Languages:** Python, C/C++  
 - **Development Tools/Boards:** MATLAB Simulink, Arduino, ESP32, Raspberry Pi, Tinkercad, ThingSpeak IoT  
-- **Skills:** Product Engineering, Development & Ownership, Staying Updated with Emerging Technologies  
-- **Areas of Interest:** Internet of Things, Embedded Systems, Automotive, Automation and AgriTech  
-- **Other Technologies:** IoT Protocols, AWS, OBD Diagnostics, Linux, Networking, Git, MongoDB and Grafana  
+- **Areas of Interest:** Internet of Things, Startups  
+- **Other Technologies:** IoT Protocols, AWS, OBD Diagnostics, Linux, Networking and Git  
 
 ### Reach me at
-[LinkedIn](https://www.linkedin.com/in/nithishravella10/)
+[LinkedIn](https://www.linkedin.com/in/nithishravella/)
 
 ---
 
-Have something in mind? Let's connect! I am eager to learn new skills and collaborate with like-minded folks.
+If you’re interested in discussing strategies, exploring new experiments, or just sharing ideas, let’s connect! I’m always eager to learn and collaborate with like-minded people.
