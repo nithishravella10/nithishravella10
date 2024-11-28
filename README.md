@@ -5,5 +5,5 @@ I live by the motto, "Where there’s a will, there’s a way." - You will find 
 
 If you’re interested in discussing strategies, exploring new experiments, or just sharing ideas, let’s connect! I’m always eager to learn and collaborate with like-minded people.  
 
-##### Lets Connect😊 Reach me at [LinkedIn](https://www.linkedin.com/in/nithishravella/)
-
+##### Lets Connect! 😊
+##### Reach me at [LinkedIn](https://www.linkedin.com/in/nithishravella/)
