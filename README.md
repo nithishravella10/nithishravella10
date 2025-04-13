@@ -6,4 +6,4 @@ I believe that “Where there’s a will, there’s a way.”
 Let’s connect! I’m always eager to learn and exchange ideas.
 
 ##### Lets Connect! 😊
-##### Reach me at [LinkedIn](https://www.linkedin.com/in/nithishravella/) or [nithishravella.in](https://www.nithishravella.in/)
+##### Reach me at [LinkedIn](https://www.linkedin.com/in/nithishravella/) or [nithishravella.in](https://www.nithishravella.com/)
